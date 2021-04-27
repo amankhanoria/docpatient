@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string name="title_activity_doctorn">doctorn</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Health-Care</string>
+    <string name="nav_header_subtitle">Because Health is Wealth</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">About You</string>
+    <string name="menu_slideshow">About Health-Care</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_patientnavigation">patientnavigation</string>
+    <string name="title_activity_patientna">patientna</string>
+</resources>
